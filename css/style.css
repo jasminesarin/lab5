@@ -3,7 +3,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-table #planets{
+
+#planets{
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
@@ -20,11 +21,13 @@ table td {
 table th {
   background-color: #f2f2f2;
 }
-table tr #planet_images{
+
+#planet_images{
   width:15%;
   padding: 0px;
   margin:0px;
 }
+
 table tr:nth-child(even) {
   background-color: #f9f9f9;
 }
@@ -38,10 +41,12 @@ h1 {
   text-align: center;
   margin-top: 50px;
 }
+
 table th {
   font-weight: bold;
   font-size: 18px;
 }
+
 table td {
   font-size: 16px;
 }
