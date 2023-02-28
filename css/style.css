@@ -41,22 +41,25 @@ th {
 }
 
 td {
+  font-family: Consolas;
   font-size: 16px;
   color: #ffffff;
 }
+
 tr:nth-child(even){
   background-color: rgba(180,64,175,0.5);
 }
 
 tr:nth-child(odd){
-  background-color: rgba(25,74,155,0.5);
+  background-color: rgba(96,19,157,0.5);
 }
 
 h1 {
-  color:#0080FF80;
+  color:#e8b923;
   font-size: 36px;
   text-align: center;
   margin-top: 50px;
+  font-family: Consolas;
 }
 
 
