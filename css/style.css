@@ -5,8 +5,7 @@ body {
 }
 
 table{
-  table-layout: fixed;
-  width: 50%;
+  width: 75%;
   border-collapse: collapse;
   border-spacing: 0;
   margin: 20px 0;
