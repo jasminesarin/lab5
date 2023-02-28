@@ -1,5 +1,5 @@
 body {
-  background-image: url("media/solar_system_background.jpg");
+  background-image: url('../media/solar_system_background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
