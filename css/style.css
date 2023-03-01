@@ -26,11 +26,11 @@ a{
   value:italics;
 }
 
-.first_column:n-th child(odd){
+.first_column:nth-child(odd){
    background-color: rgba(96,19,157,0.3);
 }
 
-.first_column:n-th child(even){
+.first_column:nth-child(even){
    background-color: rgba(180,64,175,0.3);
 }
 
