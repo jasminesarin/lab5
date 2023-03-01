@@ -23,7 +23,7 @@ a{
   text-decoration: none;
   color:#e8b923;
   font-family:consolas;
-  font-value:italics;
+  value:italics;
 }
 
 .first_column:n-th child(odd){
