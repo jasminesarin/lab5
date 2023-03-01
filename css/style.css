@@ -19,6 +19,13 @@ caption{
   padding: 10px;
 }
 
+footer a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family:consolas;
+    font-style:italics;
+}
+
 a{
   text-decoration: none;
   color:#e8b923;
@@ -27,7 +34,7 @@ a{
 }
 
 .first_column:n-th child(odd) {
-    background-color: rgba(96,19,157,0.8);
+    background-color: rgba(96,19,157,0.5);
 }
 
 .first_column:n-th child(even) {
@@ -55,7 +62,13 @@ th{
 img:hover{
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
-
+.first_column th{
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Consolas;
+}
+  
 th{
   color: #ffffff;
   font-weight: bold;
@@ -98,6 +111,4 @@ address{
   text-decoration: none;
 }
 
-footer a {
-    color: #ffffff;
-}
+
