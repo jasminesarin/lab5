@@ -28,13 +28,11 @@ a{
 
 .first_column:n-th child(odd) {
     background-color: rgba(96,19,157,0.3);
-    font-size: 16px;
 }
 
 .first_column:n-th child(even) {
     background-color: rgba(180,64,175,0.3);
-    font-size: 16px;
-}
+ }
 
 th,
 td{
