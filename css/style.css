@@ -23,16 +23,16 @@ a{
   text-decoration: none;
   color:#e8b923;
   font-family:consolas;
-  font-style:italics;
+  font-value:italics;
 }
 
-.first_column:n-th child(odd) {
-    background-color: rgba(96,19,157,0.3);
+.first_column:n-th child(odd){
+   background-color: rgba(96,19,157,0.3);
 }
 
-.first_column:n-th child(even) {
-    background-color: rgba(180,64,175,0.3);
- }
+.first_column:n-th child(even){
+   background-color: rgba(180,64,175,0.3);
+}
 
 th,
 td{
@@ -92,7 +92,7 @@ footer{
 
 p{
   font-family: Consolas; 
-  font- size: 12px;
+  font-size: 12px;
   font-style: italic;
   color: #e8b923;
 }
@@ -105,5 +105,5 @@ address{
 
 address p{
   margin: 0px;
-  padding: 5px:
+  padding: 5px;
 }
