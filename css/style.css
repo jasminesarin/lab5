@@ -98,6 +98,10 @@ h1{
   font-family: Consolas;
 }
 
+footer{
+  background-color: rgba: (0,0,0,0.6);
+}
+
 p{
   font-family: Consolas; 
   font- size: 12px;
