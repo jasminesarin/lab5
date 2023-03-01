@@ -25,7 +25,15 @@ a{
   font-family:consolas;
   font-style:italics;
 }
-  
+
+.first_column:n-th child(odd) {
+    background-color: rgba(96,19,157,0.8);
+}
+
+.first_column:n-th child(even) {
+    background-color: rgba(180,64,175,0.5);
+}
+
 th,
 td{
   padding: 10px;
@@ -88,4 +96,8 @@ address{
   font-family: Consolas;
   font-size: 12px;
   text-decoration: none;
+}
+
+footer a {
+    color: #ffffff;
 }
