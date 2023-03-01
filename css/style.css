@@ -19,13 +19,6 @@ caption{
   padding: 10px;
 }
 
-footer a {
-    color: #ffffff;
-    text-decoration: none;
-    font-family:consolas;
-    font-style:italics;
-}
-
 a{
   text-decoration: none;
   color:#e8b923;
@@ -101,13 +94,14 @@ h1{
 
 footer{
   background-color: rgba(0,0,0,0.6);
+  text-align: center;
 }
 
 p{
   font-family: Consolas; 
   font- size: 12px;
   font-style: italic;
-  color: #ffffff;
+  color: #e8b923;
 }
 
 address{
